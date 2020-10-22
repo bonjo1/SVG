@@ -1,0 +1,50 @@
+body{
+	width: 100%;
+	height:100%;
+}
+.LineCircle{
+	width: 200px;
+	height: 300px;
+	border: 1px solid;
+	background: gray
+	
+}
+.RectCircle{
+	width: 200px;
+	height: 300px;
+	border: 1px solid;
+	background: gray
+
+}
+
+.PolylineCircle{
+	width: 200px;
+	height: 300px;
+	border: 1px solid;
+	background: gray
+}
+
+.PolygonEllipse{
+	width: 200px;
+	height: 300px;
+	border: 1px solid;
+	background: gray
+}
+.Circlelinerectangle{
+	width: 200px;
+	height: 300px;
+	border: 1px solid;
+	background: gray
+}
+.PolylinePolygon{
+	width: 200px;
+	height: 300px;
+	border: 1px solid;
+	background: gray
+}
+.CircleRectanglePolylinePolygonEllipse{
+width: 200px;
+	height: 300px;
+	border: 1px solid;
+	background: gray
+}
